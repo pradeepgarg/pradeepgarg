@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeepgarg
+- 👋 Hi, I’m Pradeep Garg
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning reactjs and django
 - 💞️ I’m looking to collaborate on any beginner level projects based on the above mentioned technologies.

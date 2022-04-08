@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning reactjs and django
 - 💞️ I’m looking to collaborate on any beginner level projects based on the above mentioned technologies.
-- 📫 You can reach me out by my username @pradeepgarg or by email: gargdeveloper@mail.com
+- 📫 You can reach me out by my username @pradeepgarg or by email: garg.developer@gmail.com or pylids@gmail.com
 
 <!---
 pradeepgarg/pradeepgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
